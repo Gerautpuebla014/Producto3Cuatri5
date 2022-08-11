@@ -1,0 +1,6 @@
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\bin\Debug\LibreriaAccesoaDatos.dll
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\bin\Debug\LibreriaAccesoaDatos.pdb
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\obj\Debug\LibreriaAccesoaDatos.csproj.CoreCompileInputs.cache
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\obj\Debug\LibreriaAccesoaDatos.dll
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\obj\Debug\LibreriaAccesoaDatos.pdb
+C:\Users\gera0\OneDrive\Escritorio\carpeta memo\LibreriaAccesoaDatos\obj\Debug\LibreriaAccesoaDatos.csprojAssemblyReference.cache
